@@ -3244,23 +3244,23 @@ input, select, textarea {
 		}
 
 		.wrapper.style1-alt {
-			background-color: #493382;
+			background-color: #403a72;
 		}
 
 		.wrapper.style2 {
-			background-color: #5052b5;
+			background-color: #10111b;
 		}
 
 		.wrapper.style2-alt {
-			background-color: #3e4094;
+			background-color: crimson;
 		}
 
 		.wrapper.style3 {
-			background-color: #b74e91;
+			background-color: #ea748f;
 		}
 
 		.wrapper.style3-alt {
-			background-color: #953d75;
+			background-color: #ea748f;
 		}
 
 		.wrapper.fullscreen {
@@ -3917,12 +3917,12 @@ input, select, textarea {
 }
 
 ::-webkit-scrollbar-thumb {
-	background-color: -moz-linear-gradient(to right, #10111b, #FF058D);
+	background-color: #403a72;
 	border-radius: 20px;
 	border: 6px solid transparent;
 	background-clip: content-box;
 }	
 
 ::-webkit-scrollbar-thumb:hover {
-	background-color: #a8bbbf;
+	background-color: #FF058D;
 }
