@@ -630,3 +630,7 @@ select:not([multiple]) {
 body{
     background-color: #10111b;
 }
+
+#static-bg{
+    background-color: #10111b;
+}
