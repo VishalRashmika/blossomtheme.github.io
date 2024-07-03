@@ -1,5 +1,5 @@
 # blossomtheme.github.io
-official website of the blossom themes organization
+Official website of the Blossom Theme Organization
 
 # Color Palette
 | **Color** | **Preview** | **Hex Code** | 
