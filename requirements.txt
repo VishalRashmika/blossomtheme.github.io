@@ -1,0 +1,4 @@
+requests
+beautifulsoup4
+markdown
+urllib3
