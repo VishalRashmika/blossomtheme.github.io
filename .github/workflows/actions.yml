@@ -1,4 +1,4 @@
-name: run Web Builder
+name: Web Builder
 
 on:
   schedule:
